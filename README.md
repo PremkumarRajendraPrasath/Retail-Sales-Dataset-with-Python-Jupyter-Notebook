@@ -1,4 +1,4 @@
-# Retail-Sales-Dataset-with-Python-Jupyter-Nootbook
+# Retail-Sales-Dataset-with-Python-Jupyter-Notebook
 Project Explanation:
 
 In this project, I worked on analyzing a dataset containing information about retail sales. The main objective was to conduct exploratory data analysis (EDA) to uncover patterns, trends, and insights that could assist the retail business in making informed decisions.
